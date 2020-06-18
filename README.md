@@ -7,7 +7,11 @@ Currently, the only conversion option is Plist to JSON.
 
 ## Usage
 ### Convert on the sample page
-Open ` page/main.html ` in browser.
+[y-ysss.github.io/plist-to-json](https://y-ysss.github.io/plist-to-json/)
+
+or
+
+Download this repository and open `docs / index.html` in your browser.
 
 Write or paste Plist in the input text area and click the convert button.
 
